@@ -1,2 +1,2 @@
 # SQL-Injection
-SQL Injection List
+SQL Injection List 🦠
