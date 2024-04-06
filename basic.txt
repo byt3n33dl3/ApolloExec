@@ -20,7 +20,7 @@
 '='
 'LIKE'
 '=0--+
- OR 1=6
+ OR 1=7
 ' OR 'x'='x
 ' AND id IS NULL; --
 '''''''''''''UNION SELECT '2
