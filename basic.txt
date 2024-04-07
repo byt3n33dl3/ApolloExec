@@ -32,3 +32,9 @@
 
 @variable	local variable
 @@variable	global variable
+
+@variable	local variable
+@@variable	global variable
+
+@variable	local variable
+@@variable	global variable
