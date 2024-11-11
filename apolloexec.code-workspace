@@ -2,14 +2,14 @@
     "folders": [
         {
             "name": "Apollo code",
-            "path": "Payload_Type/apollo/apollo/agent_code"
+            "path": "payload-type/apolloexec/apolloexec/agent-code"
         },
         {
             "name": "Mythic code",
-            "path": "Payload_Type/apollo/apollo/mythic"
+            "path": "payload-type/apolloexec/apolloexec/mythic"
         },
         {
-            "name": "Project Root",
+            "name": "root",
             "path": "."
         }
     ],
