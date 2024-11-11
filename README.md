@@ -2,8 +2,8 @@
 
 ApolloExec is a Windows agent written in C# using the 4.0 .NET Framework designed to be used in SpecterOps training offerings. A .NET Framework 4.0 Windows Agent for remote code Execution 
 
-## Installation
-To install ApolloExec, you'll need Mythic installed on a remote computer. You can find installation instructions for Mythic at the [Mythic project page](https://github.com/byt3n33dl3/Mythic/).
+# Installation
+To install ApolloExec, you'll need Mythic installed on a remote computer. You can find installation instructions for Mythic at the [Mythic](https://github.com/byt3n33dl3/Mythic/) project page.
 
 From the Mythic install directory, use the following command to install ApolloExec as the **root** user:
 
