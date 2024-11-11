@@ -1,0 +1,16 @@
+{
+  "os": ["Windows"],
+  "languages": [".NET Framework"] ,
+  "features": {
+    "mythic": ["artifacts", "browser scripts", "docker", "dynamic loading", "file chunking", "file browser",
+      "keylogging", "p2p", "process browser", "screenshots", "socks"],
+    "custom": ["key exchange", "killdate", "execute pe", "execute assembly", "inline assembly","mimikatz", "powerpick",
+    "donut", "sRDI"]
+  },
+  "payload_output": ["exe", "shellcode"],
+  "architectures": ["x86_64"],
+  "c2": ["http", "smb", "tcp", "websocket"],
+  "mythic_version": "3.3.0",
+  "agent_version": "2.2.17",
+  "supported_wrappers": ["service_wrapper", "scarecrow_wrapper"]
+}
